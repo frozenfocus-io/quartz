@@ -1,0 +1,34 @@
+[
+  {
+    "id": "proj-esc",
+    "icon": "⚡",
+    "name": "ESC Quadcopter",
+    "status": "wip",
+    "date": "Mär 2026",
+    "tags": [
+      "STM32",
+      "MOSFET",
+      "PWM",
+      "BLDC"
+    ],
+    "desc": "Entwicklung eines Electronic Speed Controllers für bürstenlose Motoren.",
+    "progress": [
+      {
+        "label": "Genreal View",
+        "pct": 0
+      }
+    ]
+  },
+  {
+    "id": "proj-1773076129864",
+    "icon": "🛠️",
+    "name": "Test Projekt",
+    "status": "wip",
+    "date": "09.03.2026",
+    "tags": [
+      "Test"
+    ],
+    "desc": "Das ist nur ein Test um alle Funktionen zu prüfen.",
+    "progress": []
+  }
+]
