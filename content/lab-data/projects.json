@@ -11,7 +11,7 @@
       "PWM",
       "BLDC"
     ],
-    "desc": "Entwicklung eines Electronic Speed Controllers für bürstenlose Motoren. Fokus auf 3-phasige Kommutierung, Gate-Driver-Schaltung und Firmware auf Basis eines Cortex-M4.",
+    "desc": "Entwicklung eines Electronic Speed Controllers für bürstenlose Motoren.",
     "progress": []
   },
   {
