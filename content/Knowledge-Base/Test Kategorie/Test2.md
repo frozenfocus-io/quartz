@@ -1,6 +1,7 @@
 ---
 title: Test2
-tags: []
+tags:
+  - Test
 date: 2026-03-09
 ---
 
