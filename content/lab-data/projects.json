@@ -51,17 +51,5 @@
     ],
     "desc": "Das ist nur ein Tesst um alle funktionen zu Prüfen",
     "progress": []
-  },
-  {
-    "id": "proj-1773076134719",
-    "icon": "🛠️",
-    "name": "Test Projekt",
-    "status": "wip",
-    "date": "09.03.2026",
-    "tags": [
-      "Test"
-    ],
-    "desc": "Das ist nur ein Tesst um alle funktionen zu Prüfen",
-    "progress": []
   }
 ]
