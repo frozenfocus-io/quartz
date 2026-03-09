@@ -9,3 +9,4 @@ badge: neu
 # **Hallo,**
 
 das habe ich in Obsidian verfasst und nach lab.notes gepusht
+![[Pasted image 20260309232832.png]]
