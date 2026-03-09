@@ -21,14 +21,12 @@
   },
   {
     "id": "proj-1773076129864",
-    "icon": "🛠️",
-    "name": "Test Projekt",
+    "icon": "💡",
+    "name": "lab.notes",
     "status": "done",
     "date": "09.03.2026",
-    "tags": [
-      "Test"
-    ],
-    "desc": "Das ist nur ein Test um alle Funktionen zu prüfen.",
+    "tags": [],
+    "desc": "Alles rund um diese schöne Website\n Debugging\n Features, etc...",
     "progress": []
   }
 ]
