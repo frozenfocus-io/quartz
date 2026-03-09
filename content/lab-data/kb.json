@@ -43,6 +43,12 @@
       "projectIds": [
         "proj-1773076129864"
       ]
+    },
+    {
+      "id": "cat-1773076336346",
+      "name": "test",
+      "icon": "📝",
+      "projectIds": []
     }
   ],
   "notes": [
