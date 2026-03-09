@@ -1,0 +1,48 @@
+[
+  {
+    "id": "proj-esc",
+    "icon": "⚡",
+    "name": "ESC Quadcopter",
+    "status": "wip",
+    "date": "Mär 2026",
+    "tags": [
+      "STM32",
+      "MOSFET",
+      "PWM",
+      "BLDC"
+    ],
+    "desc": "Entwicklung eines Electronic Speed Controllers für bürstenlose Motoren. Fokus auf 3-phasige Kommutierung, Gate-Driver-Schaltung und Firmware auf Basis eines Cortex-M4.",
+    "progress": [
+      {
+        "label": "Konzept & Schaltungsdesign",
+        "pct": 70
+      },
+      {
+        "label": "Gate-Driver & Power Stage",
+        "pct": 30
+      },
+      {
+        "label": "Firmware / BLDC Kommutierung",
+        "pct": 10
+      },
+      {
+        "label": "PCB Layout & Fertigung",
+        "pct": 0
+      }
+    ]
+  },
+  {
+    "id": "proj-fc",
+    "icon": "🤖",
+    "name": "Custom Flight Controller",
+    "status": "planned",
+    "date": "später 2026",
+    "tags": [
+      "KiCad",
+      "PCB",
+      "IMU"
+    ],
+    "desc": "Eigenes PCB-Layout mit IMU-Integration.",
+    "progress": []
+  }
+]
