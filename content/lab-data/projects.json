@@ -12,7 +12,12 @@
       "BLDC"
     ],
     "desc": "Entwicklung eines Electronic Speed Controllers für bürstenlose Motoren.",
-    "progress": []
+    "progress": [
+      {
+        "label": "Genreal View",
+        "pct": 0
+      }
+    ]
   },
   {
     "id": "proj-1773076129864",
