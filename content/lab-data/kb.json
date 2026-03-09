@@ -35,6 +35,14 @@
       "projectIds": [
         "proj-1773076129864"
       ]
+    },
+    {
+      "id": "cat-1773076323638",
+      "name": "TestKB",
+      "icon": "🛠️",
+      "projectIds": [
+        "proj-1773076129864"
+      ]
     }
   ],
   "notes": [
