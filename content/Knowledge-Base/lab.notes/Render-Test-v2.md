@@ -1,7 +1,7 @@
 ---
 title: Render-Test v2
 tags: [test, svg, bilder, wikilinks]
-date: 2026-03-11
+date: 2026-03-10
 ---
 
 # Render-Test v2 — Bilder, SVG & Wikilinks
@@ -25,7 +25,7 @@ Beide sollten grün unterstrichen erscheinen (kein echter Link, nur visuell).
 Das folgende sollte ein Bild aus `content/Attachments/` laden.
 Wenn du noch kein Bild hochgeladen hast, siehst du einen broken-image Icon — das ist normal.
 
-![[test-bild.png]]
+![[Code_Generated_Image.png]]
 
 So sieht es mit einem SVG-Bild aus:
 
