@@ -7,5 +7,5 @@ tags: []
 badge: update
 ---
 
-Mobile Page schaut noch immer niciht schön aus
+Mobile Page schaut noch immer nicht schön aus
 Bilder implementation funktioniert nicht
