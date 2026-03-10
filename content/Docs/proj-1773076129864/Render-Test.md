@@ -1,7 +1,10 @@
 ---
+icon: 📐
 title: Render-Test
-tags: [test, markdown, latex, code]
+version: 
 date: 2026-03-10
+tags: [test, markdown, latex, code]
+badge: 
 ---
 
 # Render-Test — Markdown, LaTeX & Code
