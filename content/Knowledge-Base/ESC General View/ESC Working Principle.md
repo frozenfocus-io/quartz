@@ -1,9 +1,9 @@
 ---
 title: ESC Working Principle
-tags:
-  - basics
-date: 2026-03-09
+tags: []
+date: 2026-03-13
 ---
+
 ## 1. Was macht ein ESC?
 
 Ein ESC (Electronic Speed Controller) ist sozusagen der Mittelmann zwischen dem Controller und den Motoren. Der Controller liefert die leistungsarmen Steuersignale. Diese Signale sind aber zu schwach um etwas antreiben zu können. Das ESC nimmt diese Signale und verstärkt diese um den Motoren die Große Leistung zu geben die sie brauchen um zu funktionieren. 
